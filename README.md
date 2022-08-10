@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Amadio</h1>
 <h3 align="center">Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **a Electron Project**
+- 🔭 I’m currently working on **a React Project**
 
 - 🌱 I’m currently learning **Javascript**
 

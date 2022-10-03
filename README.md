@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on **a React Project**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 
-- ⚡ Fun fact **People call me "little milk"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
